@@ -1,4 +1,4 @@
-# Week 2 Notes — [dmgaye96]
+# Week 2 Notes — [dgaye96]
 
 ## Setup
 - **IDE used:** VS Code
@@ -17,7 +17,7 @@
 - **Where it fell short or needed manual correction:** I did not make any manual corrections; the model occasionally made automatic corrections
 - **Estimated time spent with AI assistance vs. manual editing:** AI assistance is better 
 
-## Observations for the Assessment
+## Observations for the Assessm
 - **Is IDE-connected local AI a viable daily coding workflow on your hardware? Why / why not:** With more RAM (for example, 64 GB or 128 GB), this can provide a viable day-to-day work environment for development. 
 - **Compared to cloud AI coding tools you've used (if any) — what's the practical gap:** This delay corresponds to the time it takes for the local AI model to generate the code; it is faster to correct it in the cloud than to do so locally. 
 
